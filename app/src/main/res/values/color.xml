@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main_buttons">#FF9800</color>
+    <color name="title_color">#0D4781</color>
+    <color name="title_background">#EEEEEE</color>
+    <color name="my_app_backgroind">#D50000</color>
+</resources>

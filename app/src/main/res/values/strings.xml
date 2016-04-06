@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ProjectZeroRework</string>
+    <string name="action_settings">Settings</string>
+    <string name="spotify_toast">Spotify App Was Not Created Yet.</string>
+    <string name="spotify">Spotify App</string>
+    <string name="scores">Scores App</string>
+    <string name="scores_toast">Scores App Was Not Created Yet.</string>
+    <string name="library">Library App</string>
+    <string name="library_toast">Library App Was Not Created Yet.</string>
+    <string name="build_it">Build It Bigger</string>
+    <string name="build_it_toast">Built It Bigger Was Not Created Yet.</string>
+    <string name="xyz">XYZ Reader</string>
+    <string name="xyz_toast">XYZ Reader Was Not Created Yet.</string>
+    <string name="my_app">Capstone: My Own App</string>
+    <string name="my_app_toast">My App Was Not Created Yet.</string>
+</resources>
